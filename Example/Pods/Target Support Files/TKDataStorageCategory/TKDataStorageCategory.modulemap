@@ -1,0 +1,6 @@
+framework module TKDataStorageCategory {
+  umbrella header "TKDataStorageCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

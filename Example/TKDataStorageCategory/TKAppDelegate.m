@@ -7,6 +7,7 @@
 //
 
 #import "TKAppDelegate.h"
+#import <TKDataStorageCategory/TKMiddleware+TKDataStorage.h>
 
 @implementation TKAppDelegate
 

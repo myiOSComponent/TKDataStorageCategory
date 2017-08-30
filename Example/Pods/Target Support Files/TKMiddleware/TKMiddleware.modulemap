@@ -1,0 +1,6 @@
+framework module TKMiddleware {
+  umbrella header "TKMiddleware-umbrella.h"
+
+  export *
+  module * { export * }
+}

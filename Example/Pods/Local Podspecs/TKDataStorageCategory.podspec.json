@@ -1,0 +1,27 @@
+{
+  "name": "TKDataStorageCategory",
+  "version": "0.0.1",
+  "summary": "数据存储模块对外接口",
+  "description": "数据存储模块对外接口，暂时未想到更好的方法.",
+  "homepage": "https://github.com/thinkWind",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "512869343@qq.com": "512869343@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/512869343@qq.com/TKDataStorageCategory.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TKDataStorageCategory/Classes/**/*",
+  "dependencies": {
+    "TKMiddleware": [
+      "~> 0.0.1"
+    ]
+  }
+}
